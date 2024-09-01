@@ -10,3 +10,4 @@ redis:7.0.10
 nacos/nacos-server:v2.1.1
 minio/minio
 mongo:7.0.0
+seata-server-1.7.1
