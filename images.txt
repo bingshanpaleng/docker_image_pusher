@@ -11,3 +11,4 @@ nacos/nacos-server:v2.1.1
 minio/minio
 mongo:7.0.0
 seataio/seata-server:2.0.0
+nacos/nacos-server:1.2.0
